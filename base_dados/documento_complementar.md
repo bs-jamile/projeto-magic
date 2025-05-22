@@ -8,16 +8,14 @@ A partir de uma base de dados fictícia, foram construídos indicadores estraté
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
 2. **Definir Objetivo e Perguntas**  [Estabelecer o objetivo e formular perguntas-chave com base nas variáveis disponíveis.]
-3. **Realizar Análise Exploratória com Python**  [Identificar correlações, padrões e outliers nos dados.]
-4. **Tratar informações com Power Query**  [Tratar informações e preparar modelagem]
-5. **Criar Métricas com DAX**  [Criar indicadores e métricas personalizadas]
-6. **Criar Visualizações no Power BI**  [Desenvolver painéis interativos com KPIs e análises segmentadas.]
+3. **Tratar informações com Power Query**  [Tratar informações e preparar modelagem]
+4. **Criar Métricas com DAX**  [Criar indicadores e métricas personalizadas]
+5. **Criar Visualizações no Power BI**  [Desenvolver painéis interativos com KPIs e análises segmentadas.]
 
 ---
 
 ## Base Escolhida 
-- **Base:** Dados sintéticos simulando um cenário real de uma seguradora com clientes de previdência privada: [BASE_MAGIC](https://github.com/bsjamile/projeto-magic/tree/main/base_dados)
-- **Exploração da Base de Dados com Python:** [Exploração da base de dados](https://github.com/bsjamile/projeto-magic/blob/main/python/PROJETO-GRUPO-MAGIC.ipynb)
+- **Base:** Dados sintéticos simulando um cenário real de uma seguradora com clientes de previdência privada: [BASE_MAGIC](https://github.com/bs-jamile/projeto-magic/tree/main/base_dados)
 - **Modelagem no Power BI:** Construção de um modelo relacional em estrela.
 - **Transformação dos Dados:** Realizada no próprio Power BI (Power Query).
 - **Medidas:** Indicadores e métricas personalizadas (DAX).
@@ -36,7 +34,7 @@ A base de dados contém informações organizadas em oito tabelas principais:
 
 ## Arquivos:
 - **Base de dados para download:** [Projeto Grupo MAGIC](https://docs.google.com/spreadsheets/d/1LgjHdjAOWsrUtkssDc-S3VOLN4c795Lg/edit?usp=sharing&ouid=109415313205868778102&rtpof=true&sd=true)
-- **Dashboard Power BI (.pbix):** [Arquivo PBIX](https://github.com/bsjamile/projeto-magic/tree/main/pbi)
+- **Dashboard Power BI (.pbix):** [Arquivo PBIX](https://github.com/bs-jamile/projeto-magic/tree/main/pbi)
 
 ## Dashboards:
 - **Visualizações - Power BI:** [Dashboards](https://app.powerbi.com/view?r=eyJrIjoiYzliNWZlNzctNmFiMy00NTc2LTgxNzctNzQwYzg4NDhmZDJiIiwidCI6ImFhNTU0OTc3LTgyOTItNDg0ZS05MjZlLTM1MTMzMGE1M2I4MCJ9)
@@ -60,7 +58,6 @@ Realizar uma análise dos dados com o objetivo de **avaliar a adequação das ca
 ---
 
 ## Ferramentas Utilizadas  
-- **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Power Query - Linguagem M:** Tratamento e estruturação dos dados dentro do Power BI.
 - **DAX:** Indicadores e métricas personalizadas
 - **Power BI**: Modelagem relacional, medidas DAX e visualizações interativas para apresentar os insights gerados.  

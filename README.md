@@ -31,7 +31,7 @@ A modelagem foi realizada com base em um **modelo em estrela**, composto por 8 t
 
 📥 [Download da base de dados (.xlsx)](https://docs.google.com/spreadsheets/d/1LgjHdjAOWsrUtkssDc-S3VOLN4c795Lg/edit?usp=sharing) 
 
-📁 [Pastas no GitHub](https://github.com/bsjamile/projeto-magic/tree/main/base_dados)
+📁 [Pastas no GitHub](https://github.com/bs-jamile/projeto-magic/tree/main/base_dados)
 
 ---
 
@@ -44,8 +44,8 @@ O projeto foi dividido em três páginas principais no Power BI:
 - **Risco** → VAR, volatilidade e exposição ao risco por carteira e cliente  
 
 📌 [Veja os dashboards publicados](https://app.powerbi.com/view?r=eyJrIjoiYzliNWZlNzctNmFiMy00NTc2LTgxNzctNzQwYzg4NDhmZDJiIiwidCI6ImFhNTU0OTc3LTgyOTItNDg0ZS05MjZlLTM1MTMzMGE1M2I4MCJ9)  
-📁 [Arquivo PBIX para download](https://github.com/bsjamile/projeto-magic/tree/main/pbi)  
-📁 [Imagens utilizadas nos dashboards](https://github.com/bsjamile/projeto-magic/tree/main/pbi/imgs_pbi)
+📁 [Arquivo PBIX para download](https://github.com/bs-jamile/projeto-magic/tree/main/pbi)  
+📁 [Imagens utilizadas nos dashboards](https://github.com/bs-jamile/projeto-magic/tree/main/pbi/imgs_pbi)
 
 ---
 
@@ -53,8 +53,6 @@ O projeto foi dividido em três páginas principais no Power BI:
 
 - **Power BI** → Modelagem, medidas DAX e visualizações  
 - **Power Query** → Transformações via M  
-- **Python (Jupyter Notebook)** → Análise exploratória inicial  
-  → [Exploração de dados com Python](https://github.com/bsjamile/projeto-magic/blob/main/python/PROJETO-GRUPO-MAGIC.ipynb)  
 - **Excel** → Pré-processamento e verificação dos dados  
 - **GitHub** → Versionamento, documentação e disponibilização do projeto  
 
@@ -64,7 +62,7 @@ O projeto foi dividido em três páginas principais no Power BI:
 
 Este repositório é acompanhado por um documento de apoio em PDF, com a descrição das **etapas do projeto**, decisões de modelagem e perguntas orientadoras da análise.
 
-📄 [Documento Complementar)](https://github.com/bsjamile/projeto-magic/blob/main/documento_complementar.pdf)
+📄 [Documento Complementar)](https://github.com/bs-jamile/projeto-magic/blob/main/documento_complementar.pdf)
 
 ---
 
